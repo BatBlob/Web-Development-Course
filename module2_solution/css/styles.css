@@ -29,6 +29,19 @@ h1 {
     font-size: 2em;
     font-weight: bold;
 }
+
+.colheading-1 {
+    background-color: pink;
+}
+
+.colheading-2 {
+    background-color: orange;
+}
+
+.colheading-3 {
+    background-color: lightblue;
+}
+
 p.text {
     clear: both;
     padding: 10px;
